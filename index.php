@@ -16,7 +16,11 @@
         <a href="formulario.php">Agregar</a>
     </div>
     <h1>Catalogo de peliculas</h1>
-    <p>Aqui podras revisar las peliculas de moda, si no esta la tuya puedes agregarla dandole a Agregar</p>
+    <p>
+        Este es un pequeño catalogo de pelicula hecha por los usuarios, aqui podras encontrar las peliculas
+        de moda elegidas por lo usuarios de internet, si no esta la tu pelicula favorita puedes ingresarla al en el
+        apartado de Agregar.
+    </p>
 
     <center>
         <table BORDER>
